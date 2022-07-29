@@ -1,0 +1,9 @@
+// Select folder first
+// Creates packag.json
+// npm init -y
+
+// mySQL
+// npm i express mysql cors
+
+// body-parser
+// npm i body-parser
